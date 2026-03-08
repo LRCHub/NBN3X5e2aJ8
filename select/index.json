@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "不器用",
+  "base_artist": "jellyy",
+  "createdAt": "2026-03-08T06:01:31.581062Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "不器用",
+      "artist": "Chara",
+      "has_synced": true,
+      "path": "select/01_不器用_Chara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不器用",
+      "artist": "jellyy",
+      "has_synced": false,
+      "path": "select/pl_01_不器用_jellyy.txt"
+    }
+  ]
+}
